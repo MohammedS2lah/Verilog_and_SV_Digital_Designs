@@ -44,3 +44,21 @@ The testbench verifies the functionality of the `mux2to1` module by simulating v
 
 ## EDA (Simulation) Tools used: ModelSim and Vivado
 
+## ModelSim Part:
+
+### Result of Compilation
+
+![image](https://github.com/user-attachments/assets/084d4093-8839-4689-ad57-706b619cb23d)
+
+### Results of Simulation
+
+![image](https://github.com/user-attachments/assets/9b316b0b-53a4-4a46-b55b-980f0f12bf5c)
+
+![image](https://github.com/user-attachments/assets/bbb95709-e32f-4887-844b-c65977b67116)
+
+
+## Vivado Part:
+
+### Design Schematic
+
+![image](https://github.com/user-attachments/assets/3b5eba16-4d46-483e-bc9a-19f6d3d3ce44)
