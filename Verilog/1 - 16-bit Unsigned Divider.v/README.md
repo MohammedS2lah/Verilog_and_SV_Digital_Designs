@@ -75,7 +75,7 @@ A **Verilog testbench** is provided to verify functionality. The testbench perfo
    - Open Vivado and create a new project.
    - Add `unsi_divider_16bit.v` as the source file.
    - Run **Open Elaborated Design**.
-   - Then View Schematic
+   - Then View Schematic.
 
 ## Results from Spyglass after RTL linting
 
