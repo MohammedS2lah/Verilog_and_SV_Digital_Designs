@@ -52,9 +52,13 @@ The deserializer reconstructs the original 8-bit data from the serialized stream
 - Uses a shift register and a counter to track the received bits.
 - Generates `clock_out` to indicate when valid data is available.
 
-
 ## Tools Used
 - **RTL Linting:** Synopsys SpyGlass
 - **Simulation & Verification:** Synopsys VCS
 - **Synthesis & Schematic View:** Xilinx Vivado
 
+## Results from Spyglass after RTL linting
+
+![image](https://github.com/user-attachments/assets/f19ec861-cd58-4ee2-bd07-a740db6976e9)
+
+![image](https://github.com/user-attachments/assets/02323d3d-5b61-4574-b794-00aa640f78a1)
