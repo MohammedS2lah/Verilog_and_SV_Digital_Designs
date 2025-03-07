@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 module De_Serializer_tb;
-    // Parameters
+  // Parameters
   parameter WIDTH = 8;
   parameter LOG_WIDTH = 3;
 
@@ -50,7 +50,7 @@ module De_Serializer_tb;
     integer i;
     begin
       for (i = WIDTH-1; i >= 0; i = i - 1) 
-	    begin
+        begin
           if(clock_out) 
             begin
               #10;
