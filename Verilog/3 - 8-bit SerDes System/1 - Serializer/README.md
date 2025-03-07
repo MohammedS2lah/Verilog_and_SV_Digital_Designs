@@ -48,7 +48,7 @@ The serializer is tested using multiple scenarios:
 
 ![image](https://github.com/user-attachments/assets/cd086657-d393-4cd1-8234-98e6c3c5e004)
 
-![image](https://github.com/user-attachments/assets/4a441ab5-e9e8-42bf-9d56-d10609d43968)
+![image](https://github.com/user-attachments/assets/67ad8a62-2713-401f-89b1-160d3bd32de9)
 
 
 ## VCS Log
